@@ -57,5 +57,4 @@ data/
 config.json               <-- Lưu trữ cấu hình người dùng và số lượng sản phẩm
 ```
 
----
-*Phát triển bởi Đội ngũ Kỹ thuật - Bản quyền thuộc về hoangvh.*
+
